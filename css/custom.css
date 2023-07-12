@@ -1,0 +1,17 @@
+/* Add here all your CSS customizations */
+.redhover:hover{
+color: red;
+}
+.viewh{
+    height: 100vh;
+    width: 100vw;
+}
+.redder{
+    color: red;
+}
+.darker{
+    color: black;
+}
+.white{
+    background-color: aliceblue;
+}
